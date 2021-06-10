@@ -18,8 +18,8 @@ class Plugin extends PluginBase
     public function pluginDetails()
     {
         return [
-            'name'        => 'Socialite Passport',
-            'description' => 'Laravel Socialite for Passport',
+            'name'        => 'Socialite',
+            'description' => 'OAuth by Laravel socialite',
             'author'      => 'DS',
             'icon'        => 'icon-leaf'
         ];
